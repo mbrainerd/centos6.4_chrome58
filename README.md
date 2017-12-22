@@ -2,7 +2,7 @@
 
 This is my own side project, a modification of a script provided freely by Richard K. Lloyd so most credit goes to him, and is in no way supported so use at your own risk. This script allows you to build Google Chrome 58 for CentOS 6.4.
 
-#### You will need root access on your local host to do the install.
+#### You will need root access on your local host and internet access to do the install.
 1. First you will need to install an updated version of the nss libs
     1. `cd <repo>/nss`
     2. `sudo yum install *.rpm`
